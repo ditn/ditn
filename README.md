@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Adam, and I'm the Lead Android Engineer at [Cuvva](https://www.cuvva.com/).
+
 <!--
 **ditn/ditn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
