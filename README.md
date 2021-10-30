@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Adam, and I'm the Lead Android Engineer at [Cuvva](https://www.cuvva.com/).
+I'm Adam, and I'm a Google Developer Expert for Android.
 
 <!--
 **ditn/ditn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
